@@ -8,6 +8,6 @@
 
 最后编辑日期：2022_11_19
 
-撰写者：XYCode-Kerman、*xxx*
+撰写者：XYCode-Kerman
 
 下载地址：CKAN
